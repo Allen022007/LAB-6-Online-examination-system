@@ -1,4 +1,8 @@
 # LAB-6-Online-examination-system
+```
+NAME : W Allen Johnston Ozario
+REG NO : 212224110004
+```
 ### AIM:
 To develop the Exam Registration System using Star UML tools.
 ### PROBLEM STATEMENT
@@ -16,6 +20,23 @@ and any forfeiting identified can make the applicant liable to penalty as per th
 hall tickets for the applicants. After successful generation of hall tickets, the system delivers
 the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
 ### UML DIAGRAMS:
+### USECASE DIAGRAM
+<img width="966" height="924" alt="Screenshot 2026-03-17 215200" src="https://github.com/user-attachments/assets/d8a01e74-b63a-4832-84a7-63b55cef3c5a" />
+
+### CLASS DIAGRAM
+<img width="970" height="900" alt="Screenshot 2026-03-17 215220" src="https://github.com/user-attachments/assets/9d762ed0-fcc0-4be8-aee6-f4273e9172dc" />
+
+### SEQUENCE DIAGRAM
+<img width="846" height="834" alt="Screenshot 2026-03-17 215344" src="https://github.com/user-attachments/assets/98e9f8ad-2aae-4c9c-8b89-d6963ff3b949" />
+
+### COMMUNICATION DIAGRAM
+<img width="810" height="738" alt="Screenshot 2026-03-17 215314" src="https://github.com/user-attachments/assets/38940db5-074a-4489-830c-17e3bd3bbb4b" />
+
+### ACTIVITY DIAGRAM
+<img width="776" height="945" alt="Screenshot 2026-03-17 215250" src="https://github.com/user-attachments/assets/64e1a4b1-9d31-4432-beaf-edcca17903cf" />
+
+### PACKAGE DIAGRAM 
+<img width="849" height="475" alt="Screenshot 2026-03-17 215326" src="https://github.com/user-attachments/assets/83fc0d32-25db-4212-b27a-78055ce87e20" />
 
 
 
